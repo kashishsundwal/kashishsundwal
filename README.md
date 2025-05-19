@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-    <img src="https://assets.designtemplate.io/Cartoon%20Illustration%20of%20a%203D%20Female%20Chemist%20Mixing%20Chemicals%20in%20a%20Laboratory%20700.webp" alt="female-scientist" width="100%"/>
+    <img src="https://t3.ftcdn.net/jpg/10/75/84/56/360_F_1075845647_tmmXjr40bG2s7ocomOiT6a2CfNmOGMJw.jpg" alt="female-scientist" width="100%"/>
 </div>
 
 ---
